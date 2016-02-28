@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>Cisco Generic App IL</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+		<string>7YC58LSPZY</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2015-07-08T13:39:25Z</date>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>
+		MIIFozCCBIugAwIBAgIIHP+fIaWNL0wwDQYJKoZIhvcNAQEFBQAwgZYxCzAJ
+		BgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBs
+		ZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBw
+		bGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlv
+		biBBdXRob3JpdHkwHhcNMTMwNzA4MTgzNDIwWhcNMTYwNzA3MTgzNDIwWjCB
+		pjEaMBgGCgmSJomT8ixkAQEMCjdZQzU4TFNQWlkxRzBFBgNVBAMMPmlQaG9u
+		ZSBEaXN0cmlidXRpb246IENpc2NvIFZpZGVvIFRlY2hub2xvZ2llcyBJc3Jh
+		ZWwgTHRkIChlbnQpMTIwMAYDVQQKDClDaXNjbyBWaWRlbyBUZWNobm9sb2dp
+		ZXMgSXNyYWVsIEx0ZCAoZW50KTELMAkGA1UEBhMCSUwwggEiMA0GCSqGSIb3
+		DQEBAQUAA4IBDwAwggEKAoIBAQDAe9fkv7BFsMCGZv0TYLXxd7XiSnZfnPkB
+		ElCJd2bfiCyIbbVuLqS/tLOjZfP9dan2N3PgGGr2NCbfj6srj7ZsTa4Ld4YD
+		SGD5UtECrVG7UBxZ8RVvukehqwwlZoB+bJ4KaJcukUbiQUygL5VMXvUPVU3s
+		LDuW1IWl5bzrWA6uugAJXjFmt2xFJeJ5rPBlIrKWJtUX4BX80GfOrkaZ5jpm
+		UAspjcUiqtE+jgoudGjmnLJ6WV7C94fPASabLZDvfyHmVH1z8+FTKss3bfCY
+		pZzu/OqD3R5LjO3bjDS1DmLcQZQXjq1UtJDAcQrW9fglHEjVKNaxAk4N4zOQ
+		gA0ZhJu9AgMBAAGjggHhMIIB3TA9BggrBgEFBQcBAQQxMC8wLQYIKwYBBQUH
+		MAGGIWh0dHA6Ly9vY3NwLmFwcGxlLmNvbS9vY3NwLXd3ZHIwMTAdBgNVHQ4E
+		FgQU9psm8rP0EeynogvbFwWxqlQGicgwDAYDVR0TAQH/BAIwADAfBgNVHSME
+		GDAWgBSIJxcJqbYYYIvs67r2R1nFUlSjtzCCAQ8GA1UdIASCAQYwggECMIH/
+		BgkqhkiG92NkBQEwgfEwgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24g
+		dGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRh
+		bmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5k
+		IGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNl
+		cnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wKQYIKwYBBQUHAgEW
+		HWh0dHA6Ly93d3cuYXBwbGUuY29tL2FwcGxlY2EvMA4GA1UdDwEB/wQEAwIH
+		gDAWBgNVHSUBAf8EDDAKBggrBgEFBQcDAzATBgoqhkiG92NkBgEEAQH/BAIF
+		ADANBgkqhkiG9w0BAQUFAAOCAQEAW0r13xkM7rnRGB6aQDhZGGPLDKzkdfDt
+		nb+u72WX2V+acc8t5UzefJgj7up13FW/7OYzHVfc+xS2AtgSDP3xjfQewxJJ
+		dqvNxErDgGZcdBI6+ue+GsNR8ifNwzGhdDYjYqG6QGL9JNffh1TDDerIHhKx
+		Thbmo6VQUYDjNvk0M1sfd2RbBDrTaUnTMwj5l1eNh/3rqZ8mGI5eHcTt7LTD
+		pNjbF3kohS6dpg5nXDfsBLhTGn6bVj9PJhXic6u7ft9jjU87K3o1ogDkmEO5
+		86BWoAhfBy/48J2uP/M7v9u4lR/oWYvCSDIFAAO2TcEFjLv7YtCSEP2t0HLk
+		SW1iOaowJg==
+		</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+		<key>application-identifier</key>
+		<string>7YC58LSPZY.com.cisco.il.*</string>
+		<key>com.apple.developer.team-identifier</key>
+		<string>7YC58LSPZY</string>
+		<key>get-task-allow</key>
+		<false/>
+		<key>keychain-access-groups</key>
+		<array>
+			<string>7YC58LSPZY.*</string>
+		</array>
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2016-07-07T13:39:25Z</date>
+	<key>Name</key>
+	<string>Cisco Generic App IL</string>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>ProvisionsAllDevices</key>
+	<true/>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>7YC58LSPZY</string>
+	</array>
+	<key>TeamName</key>
+	<string>Cisco Video Technologies Israel Ltd (ent)</string>
+	<key>TimeToLive</key>
+	<integer>365</integer>
+	<key>UUID</key>
+	<string>2db94086-d894-417c-b46f-326bc8e85c9b</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>

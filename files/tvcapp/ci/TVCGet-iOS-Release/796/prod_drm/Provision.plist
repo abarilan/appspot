@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>OTT Snowflake enterprise</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+		<string>6P55HRA85N</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2015-12-21T11:57:16Z</date>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>
+		MIIFczCCBFugAwIBAgIIQbyMbUU+DLwwDQYJKoZIhvcNAQEFBQAwgZYxCzAJ
+		BgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBs
+		ZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBw
+		bGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlv
+		biBBdXRob3JpdHkwHhcNMTUxMjE1MTIwODI4WhcNMTgxMjE0MTIwODI4WjB1
+		MRowGAYKCZImiZPyLGQBAQwKNlA1NUhSQTg1TjEkMCIGA1UEAwwbaVBob25l
+		IERpc3RyaWJ1dGlvbjogR2V0IEFTMRMwEQYDVQQLDAo2UDU1SFJBODVOMQ8w
+		DQYDVQQKDAZHZXQgQVMxCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0BAQEF
+		AAOCAQ8AMIIBCgKCAQEAzOzcXxT7x4gdLsUjwcO8X+ceb5Az/LVgnJf7RAYQ
+		SqxrEZmVbHFWD9xNLAk1/m9Ma/XGVYlQ6A9L2KPjbDw2ioqAQCJw8+wjpjAA
+		eLLkmKoO5Fwynp32o+XdxbbHc9/bBiJIF+L2BgUOHv/lvuRCP4OIlShHaSWR
+		2NRlcEbCd0/lExaVqC8fsO2uhIoGW01M6ILbsUYoHy1A+COgybb6jod00AGh
+		V6JU2J2cCxFNoF9VaYA2KG8rxYnQFdTvHY235J0Pv5KcSoYLoynbQIkWGjEb
+		dmnatQi9ZE3PH4s7OlQFnJ5wXzdafQBY2UKOxAyUZ7y/Hb/laXceS8uIeNgj
+		XwIDAQABo4IB4zCCAd8wPwYIKwYBBQUHAQEEMzAxMC8GCCsGAQUFBzABhiNo
+		dHRwOi8vb2NzcC5hcHBsZS5jb20vb2NzcDAyLXd3ZHIwMTAdBgNVHQ4EFgQU
+		u3NFG+XzIzLc5n8CHGMnDhIBM7IwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAW
+		gBSIJxcJqbYYYIvs67r2R1nFUlSjtzCCAQ8GA1UdIASCAQYwggECMIH/Bgkq
+		hkiG92NkBQEwgfEwgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24gdGhp
+		cyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNl
+		IG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNv
+		bmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRp
+		ZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wKQYIKwYBBQUHAgEWHWh0
+		dHA6Ly93d3cuYXBwbGUuY29tL2FwcGxlY2EvMA4GA1UdDwEB/wQEAwIHgDAW
+		BgNVHSUBAf8EDDAKBggrBgEFBQcDAzATBgoqhkiG92NkBgEEAQH/BAIFADAN
+		BgkqhkiG9w0BAQUFAAOCAQEAY2fvv229ba/TVPexMIpgCerbdb0FSDKVcPfd
+		ewVjOr5IkRBGCVDZntFel5lw6PZG1L2g6G8dQYks+TelncByzP/MbRtgjCIr
+		qOhfXXnKmrNiDb4NOW1Fz9NABQQVDTBZoo+NCcVK8lfy6hQ1OC4b1E/Z5mSS
+		kjhgrUKrmzOKEUNrWxPaWom2EwXSgpW9XkuOOQ/RHi4PDxtLlZUbGwlbLsp5
+		ONX71fHrLXavstOuiwkrv/vTvRPFPenS7ryYX7wcalJPHJ2d15qyMZYf1Tpa
+		DYXbuTc1djdSmo1XrUFra03IVsfoW7Z37WCudQjRXPbgc7XVy4h76YaETO3S
+		fQQofw==
+		</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+		<key>application-identifier</key>
+		<string>6P55HRA85N.no.get.ottTVC.enterprise</string>
+		<key>com.apple.developer.team-identifier</key>
+		<string>6P55HRA85N</string>
+		<key>get-task-allow</key>
+		<false/>
+		<key>keychain-access-groups</key>
+		<array>
+			<string>6P55HRA85N.*</string>
+		</array>
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2016-12-20T11:57:16Z</date>
+	<key>Name</key>
+	<string>OTT Snowflake dist enterprise</string>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>ProvisionsAllDevices</key>
+	<true/>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>6P55HRA85N</string>
+	</array>
+	<key>TeamName</key>
+	<string>Get AS</string>
+	<key>TimeToLive</key>
+	<integer>365</integer>
+	<key>UUID</key>
+	<string>6b6a4431-debf-4cd6-9575-9924305a83e4</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
